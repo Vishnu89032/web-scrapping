@@ -1,0 +1,5 @@
+1.Python Devroom @ FOSDEM 2024
+2.FOSDEM 2024: Python Devroom
+3.Prague Python Pizza 2024
+4.Django Girls Ho
+5.PyCon PH 2024
